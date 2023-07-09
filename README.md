@@ -18,7 +18,7 @@ Upload your GLB into your Assets folder.
 ![4](assets/4.png)<br><br>
 Copy the URL.
 ![6](assets/6.png)<br><br>
-Activate edit mode, select Custom Import, and paste your GLB URL.
+Activate edit mode, select Custom Import, and paste your GLB URL. For this example, I'm using [this model](https://sketchfab.com/3d-models/rooftop-garden-with-loft-47f4fa5c8c7a4f5a8c49490179b2e52f)
 ![5](assets/5.png)<br><br>
 It will look like this while it loads.
 ![7](assets/7.png)<br><br>
@@ -56,7 +56,7 @@ So naturally, I began duplicating the entire showroom.
 ![26](assets/26.png)<br><br>
 I duplicated the space 24 times, which continued to run smoothly on a 1.4gzh MacBook Pro with just 8gb RAM. I clearly could have continued to do so, seemingly without end.
 ![27](assets/27.png)<br><br>
-With this in mind, do I think the TNEC floor price is massively undervalued? Absolutely. NFA, but from a builder's perspective, there's no easier way to begin building in the metaverse right in your browser window. Big up Portals crew for all your support. I hope this walkthrough helps new builders in the space! 
+With this in mind, do I think the TNEC floor price is massively undervalued? Absolutely. NFA, but from a builder's perspective, there's no easier way to begin building in the metaverse than right in your browser window. Big up Portals crew for all your support. I hope this walkthrough helps new builders in the space! 
 <br><br>
 ## Portals Assets
 I've begun to compile some of the GLB's that I've enjoyed working with in Portals. You can check it out [here](https://sketchfab.com/denverhnt/collections/portals-assets-4a4599d245f64d6bb0ea6ccdce0400bd).
