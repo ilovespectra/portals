@@ -26,7 +26,7 @@ Then you'll be able to place your model, but only in certain places. Don't worry
 ![8](assets/8.png)<br><br>
 Objects outside the genesis pod will need Light Sources whether day or night, so I prefer to swap to night theme. Totally up to you. Add a few Light Sources either way and begin exploring the object from your free-floating camera view.
 ![9](assets/9.png)<br><br>
-Find a good location on your new object to place a Spawn Point fromn the Editor menu. Right click the Spawn Point, disable Main Spawn, and give it a unique name. 
+Find a good location on your new object to place a Spawn Point fromn the Editor menu. Right click the Spawn Point, disable Default Spawnpoint, and give it a unique name. 
 ![10](assets/10.png)<br><br>
 Add a Portal from the Editor menu as well. You can add a message, or toggle auto-teleport, by right clicking the Portal.
 ![11](assets/11.png)<br><br>
