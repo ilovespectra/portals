@@ -32,11 +32,11 @@ Add a Portal from the Editor menu as well. You can add a message, or toggle auto
 ![11](assets/11.png)<br><br>
 This part is optional, but you can connect an imported GLB to your new environment via the Click Interactivity tool. For this example, I'm just importing a door to represent the roof access.
 ![13](assets/13.png)<br><br>
-Right click the door and select GLB Settings
+Right click the door and select GLB Settings.
 ![14](assets/14.png)<br><br>
 Copy the Spawn Link from the Spawn Point you added to your new location and press `B` to return to your pod. Select the Hover Interactivty to label your door, and the Click Interactivity to paste the Spawn Link.
 ![15](assets/15.png)<br><br>
-Disable editor mode and click the door to check out your new space!
+Disable editor mode and click the door to check out your new space! You can view this space [here](https://theportal.to/?room=060c72d7-f535-4544-bd65-af5dda5108dd)
 ![16](assets/16.png)<br><br>
 Now you can explore this new environment and return to your Genesis pod. This can be repeated with many multiple environments.
 ![17](assets/17.png)<br><br>
@@ -50,7 +50,7 @@ Repeating the Portal/SpawnPoint process as needed.
 ![23](assets/23.png)<br><br>
 To push the limits of the Genesis pod, I imported a large showroom floorspace and filled it with GLBs. A Lambo, a Bronco, and dozens of stages, booths, and more.
 ![24](assets/24.png)<br><br>
-It's really, really big.
+It's really, really big. You can view this portal. [here](https://theportal.to/?room=7d35e440-1f3d-4af4-89ec-87b461aa7fdc)
 ![25](assets/25.png)<br><br>
 So naturally, I began duplicating the entire showroom.
 ![26](assets/26.png)<br><br>
@@ -59,6 +59,7 @@ I duplicated the space 24 times, which continued to run smoothly on a 1.4gzh Mac
 From a builder's perspective, there's no easier way to begin building in the metaverse than right in your browser window. Big up Portals crew for all your support. I hope this walkthrough helps new builders in the space! 
 <br><br>
 ## Portals Assets
-I've begun to compile some of the GLB's that I've enjoyed working with in Portals. You can check it out [here](https://sketchfab.com/denverhnt/collections/portals-assets-4a4599d245f64d6bb0ea6ccdce0400bd).
+
+There are some limitations on the size objects you import. Try to shoot for objects less than 10MB, ideally around 1mb or smaller. I've begun to compile some of the GLB's that I've enjoyed working with in Portals. You can check it out [here](https://sketchfab.com/denverhnt/collections/portals-assets-4a4599d245f64d6bb0ea6ccdce0400bd).
 <br><br>
 If you like what I did here, you can buy me a coffee by donating SPL tokens to `tanny.sol` 
