@@ -56,7 +56,7 @@ So naturally, I began duplicating the entire showroom.
 ![26](assets/26.png)<br><br>
 I duplicated the space 24 times, which continued to run smoothly on a 1.4gzh MacBook Pro with just 8gb RAM. I clearly could have continued to do so, seemingly without end.
 ![27](assets/27.png)<br><br>
-With this in mind, do I think the TNEC floor price is massively undervalued? Absolutely. NFA, but from a builder's perspective, there's no easier way to begin building in the metaverse than right in your browser window. Big up Portals crew for all your support. I hope this walkthrough helps new builders in the space! 
+From a builder's perspective, there's no easier way to begin building in the metaverse than right in your browser window. Big up Portals crew for all your support. I hope this walkthrough helps new builders in the space! 
 <br><br>
 ## Portals Assets
 I've begun to compile some of the GLB's that I've enjoyed working with in Portals. You can check it out [here](https://sketchfab.com/denverhnt/collections/portals-assets-4a4599d245f64d6bb0ea6ccdce0400bd).
