@@ -22,7 +22,7 @@ Activate edit mode, select Custom Import, and paste your GLB URL. For this examp
 ![5](assets/5.png)<br><br>
 It will look like this while it loads.
 ![7](assets/7.png)<br><br>
-Then you'll be able to place your model, but only in certain places. Don't worry, you'll be able to modify the size and location, just click anywhere the GLB doesn't appear red. Right click the imported GLB to adjust the size, toggle shadow and collider. <i>(Disabling the collider turns the object into a ghost visitors to the space can pass, or fall, straight through.)</i>
+Then you'll be able to place your model, but only in certain places. Don't worry, you'll be able to modify the size and location, just click anywhere the GLB doesn't appear red. Right click the imported GLB to adjust the size, toggle shadow and collider. <i>(Disabling the collider turns the object into a ghost-object which visitors to the space can pass, or fall, straight through.)</i>
 ![8](assets/8.png)<br><br>
 Objects outside the genesis pod will need Light Sources whether day or night, so I prefer to swap to night theme. Totally up to you. Add a few Light Sources either way and begin exploring the object from your free-floating camera view.
 ![9](assets/9.png)<br><br>
@@ -61,5 +61,7 @@ From a builder's perspective, there's no easier way to begin building in the met
 ## Portals Assets
 
 There are some limitations on the size objects you import. Try to shoot for objects less than 10MB, ideally around 1mb or smaller. [Here is a useful page on Import Specs.](https://portals-help-center.super.site/portals-import-specs )I've begun to compile some of the GLB's that I've enjoyed working with in Portals. You can check it out [here](https://sketchfab.com/denverhnt/collections/portals-assets-4a4599d245f64d6bb0ea6ccdce0400bd).
+<br><br>
+Imported GLBs may take a while to load if they're large, but once your space has seen it, it can load that same GLB in an instant. When you visit some of my larger spaces for the first time, some objects may need extra time to load. <b>This wait time is reduced substantially every time you revisit the page 🍪</b><br><br>
 <br><br>
 If you like what I did here, you can buy me a coffee by donating SPL tokens to `tanny.sol` 
