@@ -60,6 +60,6 @@ From a builder's perspective, there's no easier way to begin building in the met
 <br><br>
 ## Portals Assets
 
-There are some limitations on the size objects you import. Try to shoot for objects less than 10MB, ideally around 1mb or smaller. I've begun to compile some of the GLB's that I've enjoyed working with in Portals. You can check it out [here](https://sketchfab.com/denverhnt/collections/portals-assets-4a4599d245f64d6bb0ea6ccdce0400bd).
+There are some limitations on the size objects you import. Try to shoot for objects less than 10MB, ideally around 1mb or smaller. [Here is a useful page on Import Specs.](https://portals-help-center.super.site/portals-import-specs )I've begun to compile some of the GLB's that I've enjoyed working with in Portals. You can check it out [here](https://sketchfab.com/denverhnt/collections/portals-assets-4a4599d245f64d6bb0ea6ccdce0400bd).
 <br><br>
 If you like what I did here, you can buy me a coffee by donating SPL tokens to `tanny.sol` 
