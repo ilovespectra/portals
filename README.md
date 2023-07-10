@@ -63,5 +63,8 @@ From a builder's perspective, there's no easier way to begin building in the met
 There are some limitations on the size objects you import. Try to shoot for objects less than 10MB, ideally around 1mb or smaller. [Here is a useful page on Import Specs.](https://portals-help-center.super.site/portals-import-specs )I've begun to compile some of the GLB's that I've enjoyed working with in Portals. You can check it out [here](https://sketchfab.com/denverhnt/collections/portals-assets-4a4599d245f64d6bb0ea6ccdce0400bd).
 <br><br>
 Imported GLBs may take a while to load if they're large, but once your space has seen it, it can load that same GLB in an instant. When you visit some of my larger spaces for the first time, some objects may need extra time to load. <b>This wait time is reduced substantially every time you revisit the page 🍪</b><br><br>
+### Tips n Tricks
+Did you know you can add `&glbavatar2022=true` to the end of any Portals address and be given the ability to import your own GLB avatars? They must be "rigged", if you're not sure what that means, drop a line in the [Portals Discord](https://discord.gg/portals).
 <br><br>
+### Buy me a coffee
 If you like what I did here, you can buy me a coffee by donating SPL tokens to `tanny.sol` 
