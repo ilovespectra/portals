@@ -60,7 +60,7 @@ Right click in the background space behind these boxes and select Cut Links.
 Cut only the link between the previous Principled BSDF and Material Output.
 ![snip](assets/9_blender_cut.png)<br><br>
 Click and drag to establish a link between the pasted Node Context modules and Material Output, from BSDF to Surface.<br><br>
-You'll need to repeat this process for each section of your avatar, including the face, chest screen, and antennas, being careful to include any wearable objects that make your avatar unique. You can drag one model out of the way of the other to make it easier to select.
+You'll need to repeat this process for each section of your avatar, including the face, chest screen, and antennas, being careful to include any wearable objects that make your avatar unique. You can drag one model out of the way of the other to make it easier to select. Then delete all the elements of the GLB, otherwise it'll look a little funny.
 ![modeling](assets/10_blender_modeling.png)<br><br>
 Click the Animation tab to bring your avatar to life!
 ![animation](assets/11_blender_animation.png)<br><br>
