@@ -79,7 +79,7 @@ You can visit this space for the time being to see it IRL. [Check it out](https:
 
 ### Want a TNEC avatar?
 
-[Here you go!](https://cdn.glitch.global/2e423b6b-bd48-4c82-b6bc-e766d7cc586b/TNEC-lightgrey-portals.glb?v=1689106016419)
+[Here you go!](https://github.com/ilovespectra/portals/blob/main/avatars/assets/TNEC-lightgrey-portals.glb)
 
 This is just a simple grey TNEC with the Portals logo on the chest screen
 
