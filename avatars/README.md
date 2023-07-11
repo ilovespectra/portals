@@ -5,7 +5,7 @@ You can easily copy the command here:
 ```
 &glbavatar2022=true
 ```
-If you've been given a GLB of your TNEC avatar, you can import it directly in the Portals loading screen and it will work perfectly. If you'd like to import your character as a GLB or NPC, that may take a little extra work. I'll show you how to make it happen.
+If you've been given a GLB of your TNEC avatar, you can import it directly in the Portals loading screen and it will work perfectly.<br><br><i>[Dont have one?](https://github.com/ilovespectra/portals/edit/main/avatars/README.md#want-a-tnec-avatar)</i><br><br> If you'd like to import your character as a GLB or NPC, that may take a little extra work. I'll show you how to make it happen. 
 
 ## Download Blender
 
@@ -76,3 +76,11 @@ Screenshots of all of this to come, gtg to work rn but wanted to share this beca
 [View the demo of my avatar busting a move here](https://youtu.be/f-xM49QmDxM)
 <br><br>
 You can visit this space for the time being to see it IRL. [Check it out](https://theportal.to/?room=68b33f7c-dded-49e5-bee9-8cfcb6a9adf1)
+
+### Want a TNEC avatar?
+
+[Here you go!](https://cdn.glitch.global/2e423b6b-bd48-4c82-b6bc-e766d7cc586b/TNEC-lightgrey-portals.glb?v=1689106016419)
+
+This is just a simple grey TNEC with the Portals logo on the chest screen
+
+![avatar](assets/avatar.png)
