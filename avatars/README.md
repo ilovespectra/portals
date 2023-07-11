@@ -1,4 +1,4 @@
-# Custom Avatars in Portals
+# TNEC Animations in Portals
 
 You can add `&glbavatar2022=true` to the end of any Portals address and import your own GLBs, but there's a few tricks to make this as easy as possible.<br><br>
 You can easily copy the command here:
