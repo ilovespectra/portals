@@ -14,3 +14,9 @@ In exchange for SOL, I will immerse myself in your space and get a feel for the 
 - [Soundcloud](https://soundcloud.com/ilovespectra)<br>
 - [Apple Music](https://music.apple.com/us/artist/ilovespectra/1019842275)<br>
 - [Spotify](https://open.spotify.com/artist/3FjTW11f4Ha323HFpX0iny)
+
+## Demo NFT
+
+[Check out this example on devnet](https://solscan.io/token/8U4eTGDWH378MqfJ4kQSyjW4BHb5qLfAoPpvhpri8Ef9?cluster=devnet#txs)
+
+You can see the track info in the metadata, including a link to a download link from Shawdow drive.
