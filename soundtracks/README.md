@@ -6,8 +6,7 @@
 <p align="center">
   <img src="https://github.com/ilovespectra/portals/assets/94848716/75a9e4bc-8ef5-4eeb-b862-b14139bf47bc" alt="roadmap" width="80%">
 </p>
-
-These pNFTs on Solana that represent the commission of a personalized soundtrack to your space.<br><br>
+<i>These pNFTs on Solana that represent the commission of a personalized soundtrack to your space.</i><br><br>
 
 ## They're called SNDTRK Tokens. Here's how they work:
 They will be released in 4 tiers, or 'SetLists', which will be released one at a time chronologically.<br> 
