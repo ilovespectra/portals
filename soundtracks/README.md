@@ -1,7 +1,33 @@
 # Custom Portals Soundtracks
 
-[Here is an Audius playlist](https://audius.co/hntdenver/playlist/soundtrack-demos-1479347224) of some examples of original tracks I've created under my iLoveSpectra artist moniker.<br><br>
-I'm creating an NFT collection on Solana that represents the commission of a personalized soundtrack to your space, if you have any interest, find me on [Twitter](https://twitter.com/ilovespectra) or @_tanny on Discord.
+I've created an pNFT collection on Solana that represents the commission of a personalized soundtrack to your space.<br><br><b>They're called SNDTRK Tokens. Here's how they work:</b><br><br> They will be released in 4 tiers, or 'SetLists', which will be released one at a time chronologically.<br> 
+  - SNDTRK SetLists:
+      -
+    - **TailGate / 4SOL** - 10 Tokens (*Live Now:*) [Check it out](https://ilovespectra.vercel.app)
+    - **Opener / 6SOL** - 10 Tokens
+    - **Headliner / 8SOL** - 10 Tokens
+    - **Encore / 10SOL** - No Capped Supply
+
+- Each pNFT represents a custom track for your portals space based on the following information you will be prompted to provide in the UI, which will be logged as a memo in the transaction signature:
+  - Genre:
+    - Action, Adventure, Fantasy, Sci-fi, Shooter, Racing, Chase/Scroller, Bullet Hail
+      - *Got suggestions for more? Make a pull request!)*
+  - Mood:
+    - Intense, Calm, Mysterious, Joyful, Romance, Suspense
+  - Game Setting:
+    - Describe the game environment here
+  - Personality(s)
+    - Describe the lead character, or player 
+  - Instrument Preferences
+    - 'Needs ukelele, music box, acordion / No banjo, no bagpipes, etc.'
+  - Portals URL
+    - Link your portal here
+
+- This metadata will be added to your pNFT
+
+- Once the track is completed, a link to download will be added to the metadata of your NFT!
+
+- iLoveSpectra TailGate SNDTRK Tokens: [Check it out here!](https://ilovespectra.vercel.app) if you have any questions, find me on [Twitter](https://twitter.com/ilovespectra) or @_tanny on Discord.
 |-
 
 In exchange for SOL, I will immerse myself in your space and get a feel for the atmosphere and create a sound track of your choice:
@@ -9,6 +35,7 @@ In exchange for SOL, I will immerse myself in your space and get a feel for the 
 - Optional Custom AI Generated vocal greeting; ie. "Welcome to _____."
 - Many genres available: electronic or analog
 
+[Here is an Audius playlist](https://audius.co/hntdenver/playlist/soundtrack-demos-1479347224) of some examples of original tracks I've created under my iLoveSpectra artist moniker.<br><br>
 
 ## iLoveSpectra on Streaming Platforms
 - [Soundcloud](https://soundcloud.com/ilovespectra)<br>
