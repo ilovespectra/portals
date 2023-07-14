@@ -1,4 +1,4 @@
-# Custom Portals Soundtracks
+# iLoveSpectra SNDTRK Tokens
 
 <p align="center">
   <img src="https://github.com/ilovespectra/portals/assets/94848716/61f0c81d-18b2-41bd-afbb-459245ea889f" alt="tailgate" width="60%">
