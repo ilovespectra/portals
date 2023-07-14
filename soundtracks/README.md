@@ -28,7 +28,6 @@ I've created an pNFT collection on Solana that represents the commission of a pe
 - Once the track is completed, a link to download will be added to the metadata of your NFT!
 
 - iLoveSpectra TailGate SNDTRK Tokens: [Check it out here!](https://ilovespectra.vercel.app) if you have any questions, find me on [Twitter](https://twitter.com/ilovespectra) or @_tanny on Discord.
-|-
 
 In exchange for SOL, I will immerse myself in your space and get a feel for the atmosphere and create a sound track of your choice:
 - The track will be ~10 minutes and loop neatly
