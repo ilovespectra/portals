@@ -1,6 +1,16 @@
 # Custom Portals Soundtracks
 
-I've created an pNFT collection on Solana that represents the commission of a personalized soundtrack to your space.<br><br><b>They're called SNDTRK Tokens. Here's how they work:</b><br><br> They will be released in 4 tiers, or 'SetLists', which will be released one at a time chronologically.<br> 
+<p align="center">
+  <img src="https://github.com/ilovespectra/portals/assets/94848716/61f0c81d-18b2-41bd-afbb-459245ea889f" alt="tailgate" width="60%">
+</p>
+<p align="center">
+  <img src="https://github.com/ilovespectra/portals/assets/94848716/75a9e4bc-8ef5-4eeb-b862-b14139bf47bc" alt="roadmap" width="80%">
+</p>
+
+These pNFTs on Solana that represent the commission of a personalized soundtrack to your space.<br><br><b>
+
+## They're called SNDTRK Tokens. Here's how they work:
+They will be released in 4 tiers, or 'SetLists', which will be released one at a time chronologically.<br> 
   - SNDTRK SetLists:
       -
     - **TailGate / 4SOL** - 10 Tokens (*Live Now:*) [Check it out](https://ilovespectra.vercel.app)
