@@ -17,10 +17,10 @@ They will be released in 4 tiers, or 'SetLists', which will be released one at a
     - **Headliner / 8SOL** - 10 Tokens
     - **Encore / 10SOL** - No Capped Supply
 
-- Each pNFT represents a custom track for your portals space based on the following information you will be prompted to provide in the UI, which will be logged as a memo in the transaction signature:
+- Each pNFT represents a custom track for your Portals space based on the following information you will be prompted to provide in the UI, which will be logged as a memo in the transaction signature:
   - Genre:
     - Action, Adventure, Fantasy, Sci-fi, Shooter, Racing, Chase/Scroller, Bullet Hail
-      - *Got suggestions for more? Make a pull request!)*
+      - *Got suggestions for more? Make a pull request!*
   - Mood:
     - Intense, Calm, Mysterious, Joyful, Romance, Suspense
   - Game Setting:
