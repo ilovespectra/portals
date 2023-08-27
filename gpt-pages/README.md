@@ -2,6 +2,9 @@
 
 This guide will show you how I request help from chatGPT to create an HTML and .js script that handles the gameplay elements of games I’m building. In this example, we’re trying to make a piano. The puzzle requires figuring out the right series of keys to press, in which instance the solution is provided. This could be a link to the next room/portal, or a clue/key, etc.
 
+[Demo the piano here!](https://ilovespectra.github.io/piano.html) <br><br>
+<i>Play with the keyboard or mouse, supports polyphony. Much fun!</i>
+
 ## Getting Started
 
 To get started, ask GPT how to install `node.js` and `http-server` on your machine to run and test this locally. Then ask GPT how to host HTML pages on github using github.io
