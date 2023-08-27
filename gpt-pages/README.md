@@ -68,7 +68,7 @@ this piano is a password gate, a clue will be provided to the game player to ind
 
 please modify this code so a popup modal appears when the sequence is entered correctly. the popup should be black with grey text
 ```
-I added the functionality for the keyboard so you could play the piano without the mouse, but the depress animation doesn’t take place. I’ll fix that another day! Works great
+I added the functionality for the keyboard so you could play the piano without the mouse, but the depress animation doesn’t take place. I’ll fix that another day! Works great for the time being. I could also add additional notes for the other octaves so they don't repeat, but again, not vital for the functionality. Another day!
 
 Take a look at the attached code for examples on how to call audio in your webpages, css styling, .js functionality, and more. These techniques will be similar among all your webpages.
 
