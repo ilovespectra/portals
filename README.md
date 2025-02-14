@@ -64,6 +64,7 @@ En: Copy the Spawn Link from the Spawn Point you added to your new location and 
 <i>Sp: Copie el enlace de generación del punto de generación que agregó a su nueva ubicación y presione `B` para regresar a su grupo. Seleccione Interactividad al pasar el mouse para etiquetar su puerta y haga clic en Interactividad para pegar el enlace de generación.</i>
 ![15](assets/15.png)<br><br>
 En: Disable editor mode and click the door to check out your new space! You can view this space [here](https://theportal.to/?room=060c72d7-f535-4544-bd65-af5dda5108dd)<br>
+(If it gets wack-a-doodle, and you're falling eternally, press the `H` key to land back on solid ground and begin exploring the showroom!)
 <i>Sp: ¡Desactiva el modo editor y haz clic en la puerta para ver tu nuevo espacio! Puedes ver este espacio [aquí](https://theportal.to/?room=060c72d7-f535-4544-bd65-af5dda5108dd)</i>
 ![16](assets/16.png)<br><br>
 En: Now you can explore this new environment and return to your Genesis pod. This can be repeated with many multiple environments.<br>
